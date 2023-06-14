@@ -8,7 +8,14 @@ export class Cipher {
     // todo: implement
   }
 
-  encode() {
+  encode(input) {
+    let output = ' ';
+ 
+    // todo: take input from user
+    // todo: loop over every character in provided string
+    for (let index = 0; index >
+    // todo: get letter from string
+    // todo: convert to a number
     // todo: implement
   }
 
